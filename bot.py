@@ -44,4 +44,4 @@ async def change_status():
     await client.change_presence(activity=discord.Game(next(status)))
 
 
-client.run('MzU2MTA5NTAwNDEyODU0Mjc1.XqMong.-J6RqE9hwJ1T6FNdKOCSUVOQM3k')
+client.run('regenerate token')
